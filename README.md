@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i dont like chewgum
 -->
+Main.py its my first homewor on course Vadim Ksendzov
